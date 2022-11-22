@@ -2,18 +2,14 @@ const fs = require("fs");
 
 // ====== Create New File ========
 
-// fs.writeFileSync("createfile.txt" , "welcome")
-// fs.writeFileSync("cratefile.txt" , "welcome to node js")
+fs.writeFileSync("createfile.txt" , "welcome")
+fs.writeFileSync("cratefile.txt" , "welcome to node js")
 
 // fs.appendFileSync("cratefile.txt" , "How Are You I Am Fine")
 
 // ======== READ FILE DATA ==========
 
-// const buf_data = fs.readFileSync('createfile.txt')
-
-// org_data = buf_data.toString();
-
-// console.log(org_data);
+// const buf_data = fs.readFileSync('createfile.txt', 'utf-8')
 
 // ========== RENAME FILE ==========
 
