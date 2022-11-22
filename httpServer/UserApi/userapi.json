@@ -1,0 +1,92 @@
+[
+  {
+      "name" : "Mitul",
+      "surname":"Beladiya",
+      "age" : 21,
+      "username" : "mitulbeladiya",
+      "city": "surat",
+      "area" : "yogichowk"
+
+  },
+  {
+      "name" : "nipen",
+      "surname":"khant",
+      "age" : 21,
+      "username" : "nk",
+      "city": "surat",
+      "area" : "kathodara"
+
+  },
+  {
+      "name" : "nevil",
+      "surname":"dhanani",
+      "age" : 21,
+      "username" : "nevildhanani",
+      "city": "surat",
+      "area" : "yogichowk"
+
+  },
+  {
+      "name" : "gopal",
+      "surname":"katariya",
+      "age" : 24,
+      "username" : "gopalk",
+      "city": "surat",
+      "area" : "yogichowk"
+
+  },
+  {
+      "name" : "kundan",
+      "surname":"mishara",
+      "age" : 22,
+      "username" : "mishrakundan",
+      "city": "surat",
+      "area" : "dindoli"
+
+  },
+  {
+      "name" : "sumit",
+      "surname":"jha",
+      "age" : 21,
+      "username" : "sumitjha",
+      "city": "surat",
+      "area" : "yogichowk"
+
+  },
+  {
+      "name" : "asaa",
+      "surname":"jcslks",
+      "age" : 25,
+      "username" : "ksjncscnsdcd",
+      "city": "vadodara",
+      "area" : "skjchs"
+
+  },
+  {
+      "name" : "hjmhm",
+      "surname":"sdcsc",
+      "age" : 21,
+      "username" : "asawa",
+      "city": "ahemdabad",
+      "area" : "vsdv"
+
+  },
+  {
+      "name" : "ujg",
+      "surname":"wewd",
+      "age" : 21,
+      "username" : "ljghj",
+      "city": "surat",
+      "area" : "ssefe"
+
+  },
+  {
+      "name" : "vdvdv",
+      "surname":"kkuj",
+      "age" : 21,
+      "username" : "mjhhjm",
+      "city": "surat",
+      "area" : "wdddw"
+
+  }
+]
